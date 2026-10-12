@@ -1,0 +1,10 @@
+{
+  "Name": "Fish Preview",
+  "Author": "APP",
+  "Version": "1.0.0",
+  "Description": "Shows the fish image before the fishing minigame starts.",
+  "UniqueID": "APP.FishPreview",
+  "EntryDll": "FishPreviewAndTracker.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "Nexus:53736" ]
+}

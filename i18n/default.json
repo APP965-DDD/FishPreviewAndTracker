@@ -1,0 +1,16 @@
+{
+  "config.tracker-key.name": "Tracker Keybind",
+  "config.tracker-key.desc": "The key used to open the fish tracker map from the collections page.",
+
+  "config.require-caught.name": "Require Caught Fish",
+  "config.require-caught.desc": "If enabled, you cannot track uncaught fish (silhouettes).",
+
+  "config.show-preview.name": "Show Fish Preview",
+  "config.show-preview.desc": "Show the fish image during the fishing minigame.",
+
+  "config.hide-time.name": "Hide Time Info",
+  "config.hide-time.desc": "Hide the fishing time requirement in the tracker info box.",
+
+  "config.preview-scale.name": "Preview Image Scale",
+  "config.preview-scale.desc": "Adjust the size of the fish image during the fishing minigame."
+}

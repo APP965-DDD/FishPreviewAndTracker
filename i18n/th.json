@@ -1,0 +1,16 @@
+{
+  "config.tracker-key.name": "ปุ่มเปิดแผนที่ปลา",
+  "config.tracker-key.desc": "ปุ่มที่ใช้กดเพื่อดูแผนที่ปลา จากหน้าคอลเลกชัน",
+
+  "config.require-caught.name": "ต้องเคยตกได้ก่อน",
+  "config.require-caught.desc": "หากเปิดใช้งาน คุณจะไม่สามารถกดดูแผนที่ของปลาที่ยังเป็น 'เงาดำ' ได้",
+
+  "config.show-preview.name": "แสดงรูปปลาตอนตก",
+  "config.show-preview.desc": "เปิด/ปิด การแสดงรูปปลาข้างๆ หลอดมินิเกมตกปลา",
+
+  "config.hide-time.name": "ซ่อนข้อมูลเวลา",
+  "config.hide-time.desc": "ซ่อนข้อมูลเวลาตกปลา ในกรอบข้อความบนแผนที่",
+
+  "config.preview-scale.name": "ขนาดรูปปลาตอนตก",
+  "config.preview-scale.desc": "ปรับขนาดความเล็ก/ใหญ่ ของรูปปลาที่แสดงตอนเล่นมินิเกมตกปลา"
+}
